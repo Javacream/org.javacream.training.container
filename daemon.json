@@ -1,0 +1,6 @@
+{
+    "insecure-registries": [
+      "javacream.eu:8082", 
+      "javacream.eu:8083", 
+      "javacream.eu:8084"]
+}
