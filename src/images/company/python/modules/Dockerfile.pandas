@@ -1,0 +1,2 @@
+FROM javacream.eu:8083/javacream/pythonbase:1.0
+RUN pip install pandas
