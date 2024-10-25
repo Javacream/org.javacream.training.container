@@ -1,0 +1,1 @@
+FROM javacream/app:1

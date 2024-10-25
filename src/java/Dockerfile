@@ -1,4 +1,2 @@
-FROM openjdk:8-alpine
+FROM javacream/javabase:1.0
 COPY app.jar /app.jar
-EXPOSE 8080
-CMD ["java", "-jar", "/app.jar"]
