@@ -1,0 +1,4 @@
+services:
+  python_app:
+    image: javacream.eu:8083/javacream/app:1.0
+    build: .
