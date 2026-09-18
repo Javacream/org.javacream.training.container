@@ -1,0 +1,4 @@
+services:
+  webapp:
+    build: .
+    image: javacream/hello:1.0
