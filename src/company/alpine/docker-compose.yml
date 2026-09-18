@@ -1,0 +1,5 @@
+services:
+  secured_alpine:
+    build: .
+    image: javacream/alpine:1.0
+  

@@ -1,4 +1,4 @@
 services:
   webapp:
     build: .
-    image: javacream/hello:2.0-alpine
+    image: javacream/hello:3.0-secured-alpine
