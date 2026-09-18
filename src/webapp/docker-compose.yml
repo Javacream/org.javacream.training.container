@@ -1,0 +1,4 @@
+services:
+  webapp:
+    build: .
+    image: javacream/webapp:1.2
